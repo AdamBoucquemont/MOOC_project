@@ -1,0 +1,12 @@
+print("5 - 3 - 2 = ",5-3-2)
+print("2 ** 2 ** 3 = ",2**2**3)
+print("2 + 3 * 4 ** 5 = ",2+3*4**5)
+print("-8 % 3 = ",-8%3)
+print("8 % -3 = ",8%-3)
+print(1.5 * 8%8 * 1.5)
+print()
+
+print("MOUSSE AU CHOCOLAT")
+print("Nombre d'oeufs pour 7 personnes : ", int(3/4*7))
+print("Quantité de chocolat pour 7 personnes : ", int(100/4*7))
+print("Nombre de sachets de sucre vanillé pour 7 personnes : ", int(1/4*7))
